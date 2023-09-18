@@ -1,0 +1,15 @@
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\bin\Debug\net6.0\exemplo de lista.exe
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\bin\Debug\net6.0\exemplo de lista.deps.json
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\bin\Debug\net6.0\exemplo de lista.runtimeconfig.json
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\bin\Debug\net6.0\exemplo de lista.dll
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\bin\Debug\net6.0\exemplo de lista.pdb
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.csproj.AssemblyReference.cache
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.AssemblyInfo.cs
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.dll
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\refint\exemplo de lista.dll
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.pdb
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\exemplo de lista.genruntimeconfig.cache
+C:\Users\claud\source\repos\exemplo de lista\exemplo de lista\obj\Debug\net6.0\ref\exemplo de lista.dll

@@ -1,0 +1,15 @@
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\bin\Debug\net6.0\ExercicioHernca_2.exe
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\bin\Debug\net6.0\ExercicioHernca_2.deps.json
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\bin\Debug\net6.0\ExercicioHernca_2.runtimeconfig.json
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\bin\Debug\net6.0\ExercicioHernca_2.dll
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\bin\Debug\net6.0\ExercicioHernca_2.pdb
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.csproj.AssemblyReference.cache
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.AssemblyInfoInputs.cache
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.AssemblyInfo.cs
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.csproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.dll
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\refint\ExercicioHernca_2.dll
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.pdb
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ExercicioHernca_2.genruntimeconfig.cache
+C:\Users\claud\source\repos\exemplo de lista\ExercicioHernca_2\obj\Debug\net6.0\ref\ExercicioHernca_2.dll
